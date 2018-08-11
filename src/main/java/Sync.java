@@ -29,6 +29,7 @@ public class Sync {
         //构造私有空间的需要生成的下载的链接
         String URL = "http://pbfj03m4a.bkt.clouddn.com";
 
+        // 本地地址
         String syncPath = "D:/微云同步助手/373948112/weiyun/blog/pic";
 
         String maker = null;
